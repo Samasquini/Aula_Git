@@ -1,2 +1,11 @@
-# Aula_Git
-Aula que foi ensinado o uso do GitHub
+# Hamburgueria
+
+> Status do projeto: Em desenvolvimento :D
+
+
+## Páginas obrigatorias
+- a
+- e
+- d
+- d
+- z
