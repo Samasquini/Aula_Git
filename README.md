@@ -1,11 +1,6 @@
 # Hamburgueria
 
-> Status do projeto: Em desenvolvimento :D
+> Status doklASIY\WFTE8GHwi projeto: Em desenvolvimento :D
 
 
-## Páginas obrigatorias
-- a
-- e
-- d
-- d
-- z
+##pou
